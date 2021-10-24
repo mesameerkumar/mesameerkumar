@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sameer <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate CSE student with interest in Data Science  from India</h3>
 
-- 🔭 I’m currently working on my **Btech CSE**
+- 🔭 I’m currently pursuing on my **Bachelor of Technology in Computer Science and Engineering**
 
 - 🌱 Always Learning **Something New**
-
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **mesameerkumar@gmail.com**
 
